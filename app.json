@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-meditation-beep",
-    "slug": "expo-meditation-beep",
+    "name": "Meditation Beep",
+    "slug": "meditation-beep",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.juampi92.expomeditationbeep"

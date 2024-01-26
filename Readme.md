@@ -16,3 +16,9 @@ A simple expo application that plays a meditation bell sound every x minutes.
 ## Installing and running
 
 Please refer to the [Expo Go Documentation](https://docs.expo.dev/get-started/expo-go/) for installing and running the app locally.
+
+Build APK:
+
+```
+eas build -p android --profile=preview
+```
