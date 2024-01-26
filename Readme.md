@@ -2,7 +2,9 @@
 
 A simple expo application that plays a meditation bell sound every x minutes.
 
-![Screenshot](./art/screenshot.jpg)
+<div style="display: flex; justify-content: center;">
+  <img src="./art/screenshot.jpg" alt="Screenshot" width="300"/>
+</div>
 
 ## Features
 
